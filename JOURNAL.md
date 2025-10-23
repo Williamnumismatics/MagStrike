@@ -6,9 +6,15 @@
   ==================================================================
 -->
 
-## 10/23/2025 - Starteds on the thing and also started on the footprint  
+## 10/23/2025 7 PM - Starteds on the thing and also started on the footprint  
 
 First i started by creating the BOM and the plan file then i started on the footprint since i couldnt find any available footprint for my gateron low profile magnetic jade switch, i decided to make my own i have just done puting the sensor unter the place on the footprint next im going to move to the symbol and filling in the BOM
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDY4MywicHVyIjoiYmxvYl9pZCJ9fQ==--74168f6ad4f0b32e9b2843283b8edae955a3fc3f/image.png)
+  
+
+## 10/23/2025 8 PM - Finished Footprint  
+
+Finished footprint for the magnetic switch was going to put per key rgb but then figured to complex as that would exeed the amp rating of the pico which would force me to use a usb PD breakotu board. Now going to do the symbol for it and then i will start on the schematic
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDY5NiwicHVyIjoiYmxvYl9pZCJ9fQ==--3c2797a49a09c00b5227802825e7a742d12161cb/image.png)
   
 
