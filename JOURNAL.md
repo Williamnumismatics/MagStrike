@@ -18,3 +18,9 @@ Finished footprint for the magnetic switch was going to put per key rgb but then
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDY5NiwicHVyIjoiYmxvYl9pZCJ9fQ==--3c2797a49a09c00b5227802825e7a742d12161cb/image.png)
   
 
+## 10/23/2025 9 PM - doing the schematic  
+
+finished symbol and Started doing the schematics added 61 switches 4 multiplexers and the rasberry pi pico next wil finish and then move on to pcb stuff.
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDY5NywicHVyIjoiYmxvYl9pZCJ9fQ==--140fdcfb0d2fa820114502bb90581ea2628696bf/image.png)
+  
+
