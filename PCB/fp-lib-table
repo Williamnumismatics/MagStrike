@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MagStrike")(type "KiCad")(uri "${KIPRJMOD}/FootprintSymbol/MagStrike.pretty")(options "")(descr ""))
+)
