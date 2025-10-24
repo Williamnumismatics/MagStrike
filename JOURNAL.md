@@ -24,3 +24,9 @@ finished symbol and Started doing the schematics added 61 switches 4 multiplexer
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDY5NywicHVyIjoiYmxvYl9pZCJ9fQ==--140fdcfb0d2fa820114502bb90581ea2628696bf/image.png)
   
 
+## 10/24/2025 - near finish shematic  
+
+Finished with footprint and symbol fot the switch now doingthe shematic currently wiring the 61 switches up to some analog multiplexers that go into a rasberry pi pico 
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTA0MywicHVyIjoiYmxvYl9pZCJ9fQ==--7bb4fb7c9819e5b4063a9feb0977569ff4cc4385/image.png)
+  
+
