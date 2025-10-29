@@ -3856,6 +3856,16 @@
 	)
 	(wire
 		(pts
+			(xy 189.23 134.62) (xy 194.31 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42d3cd88-dae3-45b9-a7e4-060d15d6cfc7")
+	)
+	(wire
+		(pts
 			(xy 20.32 52.07) (xy 22.86 52.07)
 		)
 		(stroke
@@ -7684,7 +7694,7 @@
 	)
 	(global_label "GPI026"
 		(shape input)
-		(at 194.31 134.62 180)
+		(at 189.23 134.62 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7694,7 +7704,7 @@
 		)
 		(uuid "38e46855-bb01-4adf-9904-f88aac6863a6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 184.5515 134.62 0)
+			(at 179.4715 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
