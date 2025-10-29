@@ -30,8 +30,15 @@ Finished with footprint and symbol fot the switch now doingthe shematic currentl
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTA0MywicHVyIjoiYmxvYl9pZCJ9fQ==--7bb4fb7c9819e5b4063a9feb0977569ff4cc4385/image.png)
   
 
-## 10/29/2025 - Finished Schematic  
+## 10/29/2025 8 PM - Finished Schematic  
 
 Took a break and how have finished schematic will move onto the footprint next i wish myself good luck and i hope everything will turn out alright :))![Screenshot_20251029_205311](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQ2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--5c0fa5acb61d02199a7003b92c194ffac46e75e2/Screenshot_20251029_205311.png)
+  
+
+## 10/29/2025 9 PM - Fixed ERC  
+
+Ran ERC and fixed problem of the adc_vref not connecting to anything it is fixed now so tommorow i am going to move onto doing the footprints and acual pcb should be ready in about a week :)
+warnings are just extra pins
+![Screenshot_20251029_210028](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQ2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--7b59094bfecafd2ce1269134ac2a0b59b31a6302/Screenshot_20251029_210028.png) 
   
 
