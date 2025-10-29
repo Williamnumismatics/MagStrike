@@ -30,3 +30,8 @@ Finished with footprint and symbol fot the switch now doingthe shematic currentl
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTA0MywicHVyIjoiYmxvYl9pZCJ9fQ==--7bb4fb7c9819e5b4063a9feb0977569ff4cc4385/image.png)
   
 
+## 10/29/2025 - Finished Schematic  
+
+Took a break and how have finished schematic will move onto the footprint next i wish myself good luck and i hope everything will turn out alright :))![Screenshot_20251029_205311](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQ2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--5c0fa5acb61d02199a7003b92c194ffac46e75e2/Screenshot_20251029_205311.png)
+  
+
