@@ -1,4 +1,5 @@
 (fp_lib_table
   (version 7)
   (lib (name "MagStrike")(type "KiCad")(uri "${KIPRJMOD}/FootprintSymbol/MagStrike.pretty")(options "")(descr ""))
+  (lib (name "Stablilizer")(type "KiCad")(uri "/home/william/Downloads/STab.pretty")(options "")(descr ""))
 )

@@ -1,4 +1,4 @@
-28298619720735134
+28303905152092269
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -101737,6 +101737,27 @@ https://www.farnell.com/cad/316865.pdf?_ga=2.37208032.177107060.1530611323-24901
 0
 48
 48
+Stablilizer
+2U
+
+
+0
+0
+0
+Stablilizer
+6U
+
+
+0
+0
+0
+Stablilizer
+Gateron_Low_Profile_Socket_Stabilizer_2U
+Hot Swap Socket and Stabilizer (2U) for Gateron Low Profile Switch
+
+0
+2
+2
 Symbol
 CE-Logo_8.5x6mm_SilkScreen
 CE marking
