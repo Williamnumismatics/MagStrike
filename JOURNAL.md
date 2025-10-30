@@ -42,8 +42,13 @@ warnings are just extra pins
 ![Screenshot_20251029_210028](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQ2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--7b59094bfecafd2ce1269134ac2a0b59b31a6302/Screenshot_20251029_210028.png) 
   
 
-## 10/30/2025 - Did stabilizer things  
+## 10/30/2025 7 PM - Did stabilizer things  
 
 CReated footprints for my stabilizer because i couldnt find them anywhere spent a good 30 minutes trying tho they are the gateron low profile stabilizers.![Screenshot_20251030_191652](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjY0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--fd4da37fb41f670e5874ec17b6c9456094adc797/Screenshot_20251030_191652.png)
+  
+
+## 10/30/2025 8 PM - Started PCB  
+
+Started PCB but ran into a problem where two components in a singular footprint was too close. Had to restart i just finished routing key 14 out of 61.![Screenshot_20251030_205834](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjY1OSwicHVyIjoiYmxvYl9pZCJ9fQ==--9e6da24b95d989336918e66208af9533365db82c/Screenshot_20251030_205834.png)
   
 
