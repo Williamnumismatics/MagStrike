@@ -52,3 +52,8 @@ CReated footprints for my stabilizer because i couldnt find them anywhere spent 
 Started PCB but ran into a problem where two components in a singular footprint was too close. Had to restart i just finished routing key 14 out of 61.![Screenshot_20251030_205834](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjY1OSwicHVyIjoiYmxvYl9pZCJ9fQ==--9e6da24b95d989336918e66208af9533365db82c/Screenshot_20251030_205834.png)
   
 
+## 10/31/2025 - nearly there  
+
+Finished Routing the switches and wil now wire up all the pins for the multiplexers. after that will work on mob and some software. Then i will ship for the first time :)![Screenshot 2025-10-31 at 10.36.49 am](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njg1MywicHVyIjoiYmxvYl9pZCJ9fQ==--9a4edc2f81b734c355db8121a6ce8c81890e396a/Screenshot%202025-10-31%20at%2010.36.49%E2%80%AFam.png)
+  
+
