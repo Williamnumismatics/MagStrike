@@ -28,3 +28,6 @@ the 3d file was to big to commit to github so this is the google drive link:
 | Raspberry Pi Pico | Raspberry Pi Pico | 1 | 4.32 | 4.32 | 5.85 | [Link](https://core-electronics.com.au/raspberry-pi-pico.html) | 102.66 |
 | PCB | THE PCB | 5 | N/A | 26.35 | 18.43 | [Link](https://cart.jlcpcb.com/shopcart/cart/) | 147.44 |
 | Keycap | Keycap | 1 | 24.3 | 24.3 | 0 | [Link](https://www.aliexpress.com/item/1005004840360158.html?spm=a2g0o.productlist.main.2.1f034deaqPZaon&aem_p4p_detail=202510310235431605446549089200000325829&algo_pvid=ba55caf8-806d-4b17-adf7-32431a53e844&algo_exp_id=ba55caf8-806d-4b17-adf7-32431a53e844-1&pdp_ext_f=%7B%22order%22%3A%22549%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40AUD%2137.15%2114.12%21%21%2123.98%219.11%21%402101e2b617619033438188470ed0b0%2112000033198291368%21sea%21AU%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Aabb7ff7c%3Bm03_new_user%3A-29895%3BpisId%3A5000000190291127&curPageLogUid=07EuITmEFWFK&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005004840360158%7C_p_origin_prod%3A&search_p4p_id=202510310235431605446549089200000325829_1) | 171.74 |
+
+
+### I didnt include all of the shopping carts so here it is(Note that on gateron website it says some cheaper that the bom but that is cause of a sale that is ending in 16 hours.):
