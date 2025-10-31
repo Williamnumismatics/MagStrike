@@ -80,3 +80,9 @@ Finished PCB will now write the BOM and also the readme :) Hopefully it will get
 Finished Bom and README :) will ship it for review and if there is anything i can do to change, i will change. Dear Reviewer: Thanks for looking at my project :) Hope its good![Screenshot_20251031_212724](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njk0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--35a7a07475d6e6ab0d9916c6e0d17f538db04025/Screenshot_20251031_212724.png)
   
 
+## 11/1/2025 - Ok did the code  
+
+BTW IMPOORTANT::: THIS CODE IS VIBE CODED i think it is allowed but if it isnt please ban me cause i know that it is vibe coded cause in the docs it didnt say i couldnt vibe code the firmware. ChatGPT is goated:)
+![Screenshot_20251101_102742](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzIzMCwicHVyIjoiYmxvYl9pZCJ9fQ==--c59670f633f6a46bb222c740f37ba8c725d08393/Screenshot_20251101_102742.png)
+  
+
