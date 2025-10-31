@@ -1,0 +1,53 @@
+** Drc report for MagStrike.kicad_pcb **
+** Created on 2025-10-31T17:23:52+1100 **
+
+** Found 6 DRC violations **
+[invalid_outline]: Board has malformed outline (not a closed shape)
+    Local override; error
+    @(83.0790 mm, 29.2500 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(29.5600 mm, 29.2500 mm): Segment on Edge.Cuts
+    @(17.0000 mm, 29.2500 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (not a closed shape)
+    Local override; error
+    @(83.0800 mm, 6.0100 mm): Segment on Edge.Cuts
+[lib_footprint_mismatch]: Footprint 'RaspberryPi_Pico_Common_Unspecified' does not match copy in library 'Module'.
+    Local override; warning
+    @(56.5400 mm, 17.5600 mm): Footprint A1
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(29.5600 mm, 5.2100 mm): Segment on Edge.Cuts
+    @(81.3050 mm, 5.8125 mm): Reference field of A1
+[track_dangling]: Track has unconnected end
+    Local override; warning
+
+** Found 6 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(37.4900 mm, 26.4500 mm): PTH pad 3 [GND] of A1
+    @(50.1900 mm, 26.4500 mm): PTH pad 8 [GND] of A1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(37.4900 mm, 26.4500 mm): PTH pad 3 [GND] of A1
+    @(37.4900 mm, 8.6700 mm): PTH pad 38 [GND] of A1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(50.1900 mm, 26.4500 mm): PTH pad 8 [GND] of A1
+    @(62.8900 mm, 26.4500 mm): PTH pad 13 [GND] of A1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(62.8900 mm, 8.6700 mm): PTH pad 28 [GND] of A1
+    @(75.5900 mm, 8.6700 mm): PTH pad 23 [GND] of A1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(62.8900 mm, 26.4500 mm): PTH pad 13 [GND] of A1
+    @(75.5900 mm, 26.4500 mm): PTH pad 18 [GND] of A1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(75.5900 mm, 26.4500 mm): PTH pad 18 [GND] of A1
+    @(75.5900 mm, 8.6700 mm): PTH pad 23 [GND] of A1
+
+** Found 0 Footprint errors **
+
+** End of Report **
