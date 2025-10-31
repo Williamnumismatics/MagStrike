@@ -64,3 +64,9 @@ fINALLY FINISHED PCB ! now all i need to do i the edge cut the bom and the readm
 ![Screenshot 2025-10-31 at 10.36.55 am](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjkwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--5a0b0008f491761ae2e0ac40e8845802a4e4a02f/Screenshot%202025-10-31%20at%2010.36.55%E2%80%AFam.png)
   
 
+## 10/31/2025 3 PM - Done with the PCB  
+
+fINISHED the edge cuts but i need to put the stabilizers in but those footprints are on my PC so rn i have done everything. Wehn i get home ima gonna do the readme and bom.
+![Screenshot 2025-10-31 at 3.03.08 pm](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjkwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--57c31822d02e23e1f6b9de29583a2e4a3f418917/Screenshot%202025-10-31%20at%203.03.08%E2%80%AFpm.png)
+  
+
