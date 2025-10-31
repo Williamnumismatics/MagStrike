@@ -52,8 +52,21 @@ CReated footprints for my stabilizer because i couldnt find them anywhere spent 
 Started PCB but ran into a problem where two components in a singular footprint was too close. Had to restart i just finished routing key 14 out of 61.![Screenshot_20251030_205834](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjY1OSwicHVyIjoiYmxvYl9pZCJ9fQ==--9e6da24b95d989336918e66208af9533365db82c/Screenshot_20251030_205834.png)
   
 
-## 10/31/2025 - nearly there  
+## 10/31/2025 10 AM - nearly there  
 
 Finished Routing the switches and wil now wire up all the pins for the multiplexers. after that will work on mob and some software. Then i will ship for the first time :)![Screenshot 2025-10-31 at 10.36.49 am](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njg1MywicHVyIjoiYmxvYl9pZCJ9fQ==--9a4edc2f81b734c355db8121a6ce8c81890e396a/Screenshot%202025-10-31%20at%2010.36.49%E2%80%AFam.png)
+  
+
+## 10/31/2025 2 PM - 99% done with PCB  
+
+fINALLY FINISHED PCB ! now all i need to do i the edge cut the bom and the readme so exited to see this project come to life now !!!!!!!!! Will try finish by the end of next week :)
+
+![Screenshot 2025-10-31 at 10.36.55 am](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjkwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--5a0b0008f491761ae2e0ac40e8845802a4e4a02f/Screenshot%202025-10-31%20at%2010.36.55%E2%80%AFam.png)
+  
+
+## 10/31/2025 3 PM - Done with the PCB  
+
+fINISHED the edge cuts but i need to put the stabilizers in but those footprints are on my PC so rn i have done everything. Wehn i get home ima gonna do the readme and bom.
+![Screenshot 2025-10-31 at 3.03.08 pm](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjkwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--57c31822d02e23e1f6b9de29583a2e4a3f418917/Screenshot%202025-10-31%20at%203.03.08%E2%80%AFpm.png)
   
 
