@@ -75,3 +75,8 @@ fINISHED the edge cuts but i need to put the stabilizers in but those footprints
 Finished PCB will now write the BOM and also the readme :) Hopefully it will get approved soon. Will then do hand soldering with heatgun and also solder paste![Screenshot_20251031_175238](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjkyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--9f8ce84d3f43d119f6873a34c51050b46df651ea/Screenshot_20251031_175238.png)
   
 
+## 10/31/2025 9 PM - Done README and BOM  
+
+Finished Bom and README :) will ship it for review and if there is anything i can do to change, i will change. Dear Reviewer: Thanks for looking at my project :) Hope its good![Screenshot_20251031_212724](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njk0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--35a7a07475d6e6ab0d9916c6e0d17f538db04025/Screenshot_20251031_212724.png)
+  
+
