@@ -32,7 +32,7 @@ the 3d file was to big to commit to github so this is the google drive link:
 | KEycap | Keycap | 1 | 21.96 | 21.96 | 3.36 | [Link](https://www.aliexpress.com/item/1005004840360158.html) | c|
 
 ### I didnt include all of the shopping carts so here it is(Note that on gateron website it says some cheaper that the bom but that is cause of a sale that is ending in 16 hours.):
-![PCB](JLC.png)
+![PCB](/Images/JLC.png)
 ![shop](cORE.png)
 ![shop](Gateron.png)
 ![shop](JLC.png)
