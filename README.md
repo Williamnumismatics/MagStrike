@@ -33,9 +33,9 @@ the 3d file was to big to commit to github so this is the google drive link:
 
 ### I didnt include all of the shopping carts so here it is(Note that on gateron website it says some cheaper that the bom but that is cause of a sale that is ending in 16 hours.):
 ![PCB](/Images/JLC.png)
-![shop](cORE.png)
-![shop](Gateron.png)
-![shop](JLC.png)
-![shop](lcsc.png)
-![shop](Mouser.png)
+![shop](/Images/cORE.png)
+![shop](/Images/Gateron.png)
+![shop](/Images/JLC.png)
+![shop](/Images/lcsc.png)
+![shop](/Images/Mouser.png)
 
