@@ -93,3 +93,8 @@ I changed the BOM and also changed the readme cause i realised in the bom my mul
 ### Reviewer Please Check the README!!!![Screenshot_20251101_110548](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzIzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--5426df315d89079f44e519d6deb0447e8334bc47/Screenshot_20251101_110548.png)
   
 
+## 11/1/2025 3 PM - Changed some stuff  
+
+Reviewer said i have to cost optimize my thing so i removed the keycaps so i will 3d print them mysel;f and also changed the multiplexers from mouser to lcsc to avoid shipping. ![Screenshot_20251101_151725](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzMwNCwicHVyIjoiYmxvYl9pZCJ9fQ==--42b6ccb9e26352e1a82156b4f485af41b27e0faa/Screenshot_20251101_151725.png)
+  
+
