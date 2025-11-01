@@ -31,6 +31,8 @@ the 3d file was to big to commit to github so this is the google drive link:
 | PCB | THE pcb | 5 | N/A | 26.35 | 18.43 | [Link](https://cart.jlcpcb.com/shopcart/cart/) | 170.8 | 
 | KEycap | Keycap | 1 | 21.96 | 21.96 | 3.36 | [Link](https://www.aliexpress.com/item/1005004840360158.html) | c|
 
+![Render](/Images/render.png)
+
 ### I didnt include all of the shopping carts so here it is(Note that on gateron website it says some cheaper that the bom but that is cause of a sale that is ending in 16 hours.):
 ![PCB](/Images/JLC.png)
 ![shop](/Images/cORE.png)
