@@ -20,18 +20,17 @@ the 3d file was to big to commit to github so this is the google drive link:
  
 ### My Bill of Materials
 
-| Item | Description | Quantity | Unit Price (USD) | Total Price (USD) | Shipping (USD) | URL | Running Total (USD) | 
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | 
-| Switches | Gateron Low Profile Magnetic Jade | 1 x pack of 70 | 56 | 56 | 4.3 | [Link](https://www.gateron.com/products/gateron-low-profile-magnetic-jade-switch?VariantsId=10872) | 60.3 | 
-| Stabilizer | GATERON Low Profile Plate Mounted Stabilizer | 1 | 8 | 8 | 2.45 (Processing Fee) | [Link](https://www.gateron.com/products/gateron-low-profile-plate-mounted-stabilizer?VariantsId=10540) | 70.75 | 
-| Capacitor | 50V 100nF X7R ±10% 0603 Ceramic Capacitors RoHS | 100 | 0.0025 | 0.25 | 8.78 | [Link](https://www.lcsc.com/product-detail/C14663.html?utm_source=chatgpt.com) | 79.78 | 
-| Hall Effect Sensor | Analog-Bipolar Hall Effect Sensor | 70 | 0.2345 | 16.42 | N/A | [Link](https://www.lcsc.com/product-detail/C962159.html) | 96.2 | 
-| Multiplexer | IC MUX 16:1 160OHM 24SOIC | 5 | 0.77 | 3.08 | 20 | [Link](https://au.mouser.com/ProductDetail/Texas-Instruments/CD74HC4067M96?qs=xFfolx0DHx0XT7d9xTTZBA%3D%3D&mgh=1&vip=1&utm_source=chatgpt.com) | 119.28 | 
-| Rasberry Pi Pico | Rasberry Pi Pico | 1 | 4.32 | 4.32 | 2.42 | [Link](https://core-electronics.com.au/raspberry-pi-pico.html) | 126.02 | 
-| PCB | THE pcb | 5 | N/A | 26.35 | 18.43 | [Link](https://cart.jlcpcb.com/shopcart/cart/) | 170.8 | 
-| KEycap | Keycap | 1 | 21.96 | 21.96 | 3.36 | [Link](https://www.aliexpress.com/item/1005004840360158.html) | c|
+| Item | Description | Quantity | Unit Price (USD) | Total Price (USD) | Shipping (USD) | URL | Running Total (USD) |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Switches | Gateron Low Profile Magnetic Jade | 1 x pack of 70 | 56 | 56 | 4.3 | [Link](https://www.gateron.com/products/gateron-low-profile-magnetic-jade-switch?VariantsId=10872) | 60.3 |
+| Stabilizer | GATERON Low Profile Plate Mounted Stabilizer | 1 | 8 | 8 | 2.45 (Processing Fee) | [Link](https://www.gateron.com/products/gateron-low-profile-plate-mounted-stabilizer?VariantsId=10540) | 70.75 |
+| Capacitor | 50V 100nF X7R ±10% 0603 Ceramic Capacitors RoHS | 100 | 0.0025 | 0.25 | 8.78 | [Link](https://www.lcsc.com/product-detail/C14663.html?utm_source=chatgpt.com) | 79.78 |
+| Hall Effect Sensor | Analog-Bipolar Hall Effect Sensor | 70 | 0.2345 | 16.42 | N/A | [Link](https://www.lcsc.com/product-detail/C962159.html) | 96.2 |
+| Multiplexer | IC MUX 16:1 160OHM 24SOIC | 5 | 0.77 | 3.08 | 20 | [Link](https://au.mouser.com/ProductDetail/Texas-Instruments/CD74HC4067M96?qs=xFfolx0DHx0XT7d9xTTZBA%3D%3D&mgh=1&vip=1&utm_source=chatgpt.com) | 119.28 |
+| Rasberry Pi Pico | Rasberry Pi Pico | 1 | 4.32 | 4.32 | 2.42 | [Link](https://core-electronics.com.au/raspberry-pi-pico.html) | 126.02 |
+| PCB | THE pcb | 5 | N/A | 26.35 | 18.43 | [Link](https://cart.jlcpcb.com/shopcart/cart/) | 170.8 |
+| Keycap | Keycap | 1 | 21.96 | 21.96 | 3.36 | [Link](https://www.aliexpress.com/item/1005004840360158.html) | 196.12 |
 
-![Render](/Images/render.png)
 
 ### I didnt include all of the shopping carts so here it is(Note that on gateron website it says some cheaper that the bom but that is cause of a sale that is ending in 16 hours.):
 ![PCB](/Images/JLC.png)
@@ -40,4 +39,8 @@ the 3d file was to big to commit to github so this is the google drive link:
 ![shop](/Images/JLC.png)
 ![shop](/Images/lcsc.png)
 ![shop](/Images/Mouser.png)
+
+# 3d render:
+![Render](/Images/render.png)
+
 
