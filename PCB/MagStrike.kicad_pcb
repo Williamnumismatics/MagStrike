@@ -21751,7 +21751,7 @@
 		(descr "Raspberry Pi Pico versatile common (Pico & Pico W) footprint for surface-mount or through-hole hand soldering, supports Raspberry Pi Pico 2, default socketed model has height of 8.51mm, https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf")
 		(tags "module usb pcb antenna")
 		(property "Reference" "A1"
-			(at 11.7475 24.765 90)
+			(at 10 25.5 90)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "85e00cac-995f-49c8-b015-0ce87a0881d5")
