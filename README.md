@@ -24,7 +24,7 @@ the 3d file was to big to commit to github so this is the google drive link:
 | Stabilizer | GATERON Low Profile Plate Mounted Stabilizer | 1 | 8 | 8 | 2.45(Processing Fee) | [Link](https://www.gateron.com/products/gateron-low-profile-plate-mounted-stabilizer?VariantsId=10540) | 70.75 |
 | Capacitor | 50V 100nF X7R ±10% 0603 Ceramic Capacitors RoHS | 100 | 0.0025 | 0.25 | 8.87 | [Link](https://www.lcsc.com/product-detail/C14663.html?utm_source=chatgpt.com) | 79.87 |
 | Hall Effect Sensor | Analog-Bipolar Hall Effect Sensor | 70 | 0.2345 | 16.42 | N/A | [Link](https://www.lcsc.com/product-detail/C962159.html) | 96.29 |
-| Multiplexer | IC MUX 16:1 160OHM 24SOIC | 5 | 0.83 | 3.32 | N/A | [Link](https://www.lcsc.com/search?q=%20CD74HC4067M96%20&s_z=n_%20CD74HC4067M96%20) | 99.61 |
+| Multiplexer | IC MUX 16:1 160OHM 24SOIC | 5 | 0.83 | 3.32 | N/A | [Link](https://www.lcsc.com/sea rch?q=%20CD74HC4067M96%20&s_z=n_%20CD74HC4067M96%20) | 99.61 |
 | Rasberry Pi Pico | Rasberry Pi Pico | 1 | 4.32 | 4.32 | 2.42 | [Link](https://core-electronics.com.au/raspberry-pi-pico.html) | 106.35 |
 | PCB | THE pcb | 5 | N/A | 26.35 | 18.43 | [Link](https://cart.jlcpcb.com/shopcart/cart/) | 151.13 |
 
@@ -35,7 +35,6 @@ the 3d file was to big to commit to github so this is the google drive link:
 ![shop](/Images/Gateron.png)
 ![shop](/Images/JLC.png)
 ![shop](/Images/lcsc.png)
-![shop](/Images/Mouser.png)
 
 # 3d render:
 ![Render](/Images/render.png)
