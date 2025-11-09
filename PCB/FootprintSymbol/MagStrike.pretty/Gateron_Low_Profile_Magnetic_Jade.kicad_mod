@@ -237,13 +237,13 @@
 	(embedded_fonts no)
 	(model "/home/william/Downloads/KS-33C-FB 磁玉MINI矮轴.stp"
 		(offset
-			(xyz 26.5 -9 -6.5)
+			(xyz -26.5 -9 5)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz -0 -0 -0)
+			(xyz -0 -180 -0)
 		)
 	)
 )
