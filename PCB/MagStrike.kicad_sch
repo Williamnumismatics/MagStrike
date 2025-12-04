@@ -11944,7 +11944,7 @@
 			)
 		)
 	)
-	(global_label "SW5"
+	(global_label "SW15"
 		(shape input)
 		(at 191.77 245.11 180)
 		(fields_autoplaced yes)
@@ -11956,7 +11956,7 @@
 		)
 		(uuid "b5540647-d10e-4e6b-acc8-e7a6d73cf962")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 184.9144 245.11 0)
+			(at 183.7049 245.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
