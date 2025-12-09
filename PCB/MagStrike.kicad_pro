@@ -487,10 +487,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../../../../../../../home/william/Downloads/finalPCB/1.2_test1/",
+      "plot": "../../../../../../../home/william/Downloads/finalPCB/1.2.2/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../../../../../home/william/Downloads/MagStrike3.step",
+      "step": "../MagStrike3.step",
       "svg": "",
       "vrml": ""
     },
