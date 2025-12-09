@@ -84,7 +84,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "../../../../../../../home/william/Downloads/finalPCB/final;2/")
+			(outputdirectory "../../../../../../../home/william/Downloads/finalPCB/1.2_test1/")
 		)
 	)
 	(net 0 "")
